@@ -1,0 +1,11 @@
+{
+  "name": "order-summary-component-main",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/csescobar/order-summary-component-main.git",
+  "author": "Cesar Escobar <cesarsilvaescobar@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
